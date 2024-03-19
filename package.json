@@ -1,0 +1,32 @@
+{
+  "name": "rodrygarci-new",
+  "version": "1.0.0",
+  "description": "Rodrygarci-new is a Node.js module providing a collection of quick utility functions for various tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrygarci57/rodrygarci-new"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "vl75": "1.0.0",
+"vo21-module": "1.0.0",
+"lisacollins": "1.0.0",
+"part-lenovpaha": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"soft-zyat": "1.0.0",
+"pologovsemen-part": "1.0.0",
+    "moment": "^2.29.1",
+    "validator": "^13.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrygarci57/rodrygarci-new/issues"
+  },
+  "homepage": "https://github.com/rodrygarci57/rodrygarci-new#readme"
+}
